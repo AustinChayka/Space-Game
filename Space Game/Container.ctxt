@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Container
+comment1.params=sm\ w\ h\ sc\ t
+comment1.target=Container(StateManager,\ int,\ int,\ float,\ java.lang.String)
+comment10.params=
+comment10.target=Renderer\ getRenderer()
+comment11.params=
+comment11.target=StateManager\ getGame()
+comment12.params=
+comment12.target=GUI\ getGUI()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=int\ getWidth()
+comment5.params=
+comment5.target=int\ getHeight()
+comment6.params=
+comment6.target=float\ getScale()
+comment7.params=
+comment7.target=java.lang.String\ getTitle()
+comment8.params=
+comment8.target=Frame\ getFrame()
+comment9.params=
+comment9.target=Input\ getInput()
+numComments=13

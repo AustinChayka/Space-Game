@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ZigZagEnemy
+comment1.params=x\ y
+comment1.target=ZigZagEnemy(int,\ int)
+comment2.params=c\ l\ dt
+comment2.target=void\ update(Container,\ Level,\ float)
+numComments=3

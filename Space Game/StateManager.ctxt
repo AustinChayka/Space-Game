@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=StateManager
+comment1.params=
+comment1.target=StateManager()
+comment10.params=
+comment10.target=GameState\ getPreviousState()
+comment2.params=c
+comment2.target=void\ begin(Container)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=c
+comment4.target=void\ init(Container)
+comment5.params=c\ dt
+comment5.target=void\ update(Container,\ float)
+comment6.params=c\ r
+comment6.target=void\ render(Container,\ Renderer)
+comment7.params=stateName\ c
+comment7.target=void\ changeState(java.lang.String,\ Container)
+comment8.params=newState\ c
+comment8.target=void\ changeState(GameState,\ Container)
+comment9.params=stateName
+comment9.target=GameState\ getState(java.lang.String)
+numComments=11

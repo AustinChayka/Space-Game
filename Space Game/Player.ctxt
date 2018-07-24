@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=x\ y\ health\ shield
+comment1.target=Player(int,\ int,\ int,\ int)
+comment10.params=s
+comment10.target=void\ addShot(int)
+comment2.params=c\ l\ dt
+comment2.target=void\ update(Container,\ Level,\ float)
+comment3.params=c\ r
+comment3.target=void\ render(Container,\ Renderer)
+comment4.params=damage
+comment4.target=void\ dealDamage(int)
+comment5.params=x
+comment5.target=void\ setX(float)
+comment6.params=y
+comment6.target=void\ setY(float)
+comment7.params=h
+comment7.target=void\ heal(int)
+comment8.params=s
+comment8.target=void\ increaseMaxShield(int)
+comment9.params=l
+comment9.target=void\ shoot(Level)
+numComments=11

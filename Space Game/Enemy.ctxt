@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=x\ y
+comment1.target=Enemy(int,\ int)
+comment2.params=c\ l\ dt
+comment2.target=void\ update(Container,\ Level,\ float)
+comment3.params=l
+comment3.target=void\ shoot(Level)
+comment4.params=c\ r
+comment4.target=void\ render(Container,\ Renderer)
+comment5.params=damage
+comment5.target=void\ dealDamage(int)
+comment6.params=h
+comment6.target=void\ heal(int)
+numComments=7

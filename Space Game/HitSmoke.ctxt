@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HitSmoke
+comment1.params=x\ y\ dir
+comment1.target=HitSmoke(int,\ int,\ int)
+comment2.params=x\ y\ xVol\ yVol
+comment2.target=HitSmoke(int,\ int,\ double,\ double)
+comment3.params=c\ l\ dt
+comment3.target=void\ update(Container,\ Level,\ float)
+numComments=4

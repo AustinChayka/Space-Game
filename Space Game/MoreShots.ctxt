@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MoreShots
+comment1.params=range
+comment1.target=MoreShots(int)
+comment2.params=l
+comment2.target=void\ apply(Level)
+numComments=3

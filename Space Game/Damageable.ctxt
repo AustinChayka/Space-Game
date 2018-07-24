@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Damageable
+comment1.params=damage
+comment1.target=void\ dealDamage(int)
+comment2.params=h
+comment2.target=void\ heal(int)
+numComments=3

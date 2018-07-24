@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Light
+comment1.params=radius\ color
+comment1.target=Light(int,\ int)
+comment10.params=
+comment10.target=int\ getY()
+comment11.params=x
+comment11.target=void\ setX(int)
+comment12.params=y
+comment12.target=void\ setY(int)
+comment2.params=x\ y
+comment2.target=int\ getLightValue(int,\ int)
+comment3.params=
+comment3.target=int\ getRadius()
+comment4.params=
+comment4.target=int\ getDiameter()
+comment5.params=
+comment5.target=int\ getColor()
+comment6.params=
+comment6.target=int[]\ getLightMap()
+comment7.params=r
+comment7.target=void\ setRadius(int)
+comment8.params=c
+comment8.target=void\ setColor(int)
+comment9.params=
+comment9.target=int\ getX()
+numComments=13

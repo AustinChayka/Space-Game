@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PowerUp
+comment1.params=range
+comment1.target=PowerUp(int)
+comment2.params=c\ l\ dt
+comment2.target=void\ update(Container,\ Level,\ float)
+comment3.params=c\ r
+comment3.target=void\ render(Container,\ Renderer)
+comment4.params=l
+comment4.target=void\ apply(Level)
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=c
+comment1.target=GUI(Container)
+comment2.params=c\ dt
+comment2.target=void\ update(Container,\ float)
+comment3.params=c\ r
+comment3.target=void\ render(Container,\ Renderer)
+comment4.params=showing
+comment4.target=void\ setShowing(boolean)
+comment5.params=
+comment5.target=boolean\ isShowing()
+numComments=6
